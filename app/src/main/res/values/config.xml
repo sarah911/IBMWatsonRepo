@@ -3,29 +3,29 @@
 
     <!--Watson Assistant service credentials-->
     <!-- REPLACE `ASSISTANT_ID_HERE` with ID of the Assistant to use -->
-    <string name="assistant_id">ASSISTANT_ID_HERE</string>
+    <string name="assistant_id">f7eddc35-bc27-4a38-9384-e209d3f91c51</string>
 
     <!-- REPLACE `ASSISTANT_API_KEY_HERE` with Watson Assistant service API Key-->
-    <string name="assistant_apikey">ASSISTANT_API_KEY_HERE</string>
+    <string name="assistant_apikey">Xad2M7lGTnAxhjzu-CPkVTbGpNQhU0_T-6Il2lTeTM9m</string>
 
     <!-- REPLACE the URL with the one provided in the credentials of the service you created-->
-    <string name="assistant_url">ASSISTANT_URL_HERE</string>
+    <string name="assistant_url">https://api.us-south.assistant.watson.cloud.ibm.com/instances/0fdfc5ce-f2d7-4e9b-9b5e-6ed54c71c7e6</string>
 
 
     <!--Watson Speech To Text(STT) service credentials-->
     <!-- REPLACE `STT_API_KEY_HERE` with Watson Speech to Text service API Key-->
-    <string name="STT_apikey">STT_API_KEY_HERE</string>
+    <string name="STT_apikey">IYS-J5FCBQ6wICfXClCwBy6PsSj0pqROSJv5GyJL7YhT</string>
     
 
     <!-- REPLACE the URL with STT URL provided in the service credentials -->
-    <string name="STT_url">STT_URL_HERE</string>
+    <string name="STT_url">https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/ad6c5166-e3f5-47e3-aa45-f8d577fd935c</string>
 
 
     <!--Watson Text To Speech(TTS) service credentials-->
     <!-- REPLACE `TTS_API_KEY_HERE` with Watson Text to Speech service API Key-->
-    <string name="TTS_apikey">TTS_API_KEY_HERE</string>
+    <string name="TTS_apikey">LhNwsLKO8Eq5_ehweqcXkSebRNUERvhQx1lhElbEPFkJ</string>
     
     <!-- REPLACE the URL with TTS URL provided in the service credentials -->
-    <string name="TTS_url">TTS_URL_HERE</string>
+    <string name="TTS_url">https://api.us-east.text-to-speech.watson.cloud.ibm.com/instances/39fb50ad-b11e-4285-8220-4a5ff0b8dc7d</string>
 
 </resources>
